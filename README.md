@@ -1,5 +1,7 @@
 # Glossary for Markdown (GlossaryMD)
 
+new line
+
 [Example VVSG Glossary Output](vvsg_living_glossary.md)
 
 ## Instructions for Running
